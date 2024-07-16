@@ -1,4 +1,4 @@
-# My Dotfiles...
+# My Dotfiles
 My personal configs of my arch
 ### Pacman packages:
 ```
